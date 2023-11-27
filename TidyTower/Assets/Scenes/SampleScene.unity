@@ -3794,6 +3794,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -3875,6 +3876,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 31, y: -47, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b1354b238aeb4778bcb926af4a598a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Hedef: {fileID: 1707593429}
 --- !u!1 &972464866
 GameObject:
   m_ObjectHideFlags: 0
@@ -7095,6 +7109,7 @@ MonoBehaviour:
   _Carpistiricilar:
   - {fileID: 1243594403}
   - {fileID: 40903181}
+  _KameraTakip: {fileID: 963194229}
   _KupGelisHizi: 2
   _ToplananKupSayisi: 0
 --- !u!1 &1643344883

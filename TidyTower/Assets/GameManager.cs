@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] Transform[] _Carpistiricilar;
     int _AktifCarpistiriciIndex;
 
+    [SerializeField] KameraTakip _KameraTakip;
+
     public float _KupGelisHizi;
 
     bool _DokunmaAktif;
@@ -46,6 +48,7 @@ public class GameManager : MonoBehaviour
                 _Kupler[_AktifKupIndex - 1].GetComponent<Kup>()._HareketEdebilirMi = false;
                 _Kupler[_AktifKupIndex - 1].GetComponent<Rigidbody>().useGravity = true;
                 _DokunmaAktif = false;
+                _KameraTakip._Hedef = _Kupler[_AktifKupIndex - 1].transform;
             }
         }
     }
