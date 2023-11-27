@@ -244,7 +244,7 @@ GameObject:
   - component: {fileID: 87064238}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -276,6 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &87064239
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -390,7 +391,7 @@ GameObject:
   - component: {fileID: 103293677}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -422,6 +423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &103293678
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -619,7 +621,7 @@ GameObject:
   - component: {fileID: 107882288}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -651,6 +653,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &107882289
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -765,7 +768,7 @@ GameObject:
   - component: {fileID: 132705177}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -797,6 +800,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &132705178
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -911,7 +915,7 @@ GameObject:
   - component: {fileID: 138964888}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -943,6 +947,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &138964889
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1057,7 +1062,7 @@ GameObject:
   - component: {fileID: 139202106}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1089,6 +1094,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &139202107
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1203,7 +1209,7 @@ GameObject:
   - component: {fileID: 164657144}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1235,6 +1241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &164657145
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1349,7 +1356,7 @@ GameObject:
   - component: {fileID: 178168653}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1381,6 +1388,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &178168654
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1495,7 +1503,7 @@ GameObject:
   - component: {fileID: 187991056}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1527,6 +1535,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &187991057
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1641,7 +1650,7 @@ GameObject:
   - component: {fileID: 218544581}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1673,6 +1682,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &218544582
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1878,7 +1888,7 @@ GameObject:
   - component: {fileID: 246455649}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1910,6 +1920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &246455650
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2024,7 +2035,7 @@ GameObject:
   - component: {fileID: 282916658}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2056,6 +2067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &282916659
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2170,7 +2182,7 @@ GameObject:
   - component: {fileID: 458558515}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2202,6 +2214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &458558516
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2316,7 +2329,7 @@ GameObject:
   - component: {fileID: 474929510}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2348,6 +2361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &474929511
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2462,7 +2476,7 @@ GameObject:
   - component: {fileID: 541086626}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2494,6 +2508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &541086627
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2608,7 +2623,7 @@ GameObject:
   - component: {fileID: 555365732}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2640,6 +2655,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &555365733
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2754,7 +2770,7 @@ GameObject:
   - component: {fileID: 576470310}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2786,6 +2802,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &576470311
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2900,7 +2917,7 @@ GameObject:
   - component: {fileID: 589753963}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2932,6 +2949,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &589753964
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3046,7 +3064,7 @@ GameObject:
   - component: {fileID: 637770780}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3078,6 +3096,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &637770781
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3192,7 +3211,7 @@ GameObject:
   - component: {fileID: 695653689}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3224,6 +3243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &695653690
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3485,7 +3505,7 @@ GameObject:
   - component: {fileID: 941527580}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3517,6 +3537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &941527581
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3631,7 +3652,7 @@ GameObject:
   - component: {fileID: 942879679}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3663,6 +3684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &942879680
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3869,7 +3891,7 @@ GameObject:
   - component: {fileID: 972464868}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3901,6 +3923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &972464869
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4015,7 +4038,7 @@ GameObject:
   - component: {fileID: 1004993338}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4047,6 +4070,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1004993339
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4161,7 +4185,7 @@ GameObject:
   - component: {fileID: 1019411072}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4193,6 +4217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1019411073
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4307,7 +4332,7 @@ GameObject:
   - component: {fileID: 1042487071}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4339,6 +4364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1042487072
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4453,7 +4479,7 @@ GameObject:
   - component: {fileID: 1087073827}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4485,6 +4511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1087073828
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4599,7 +4626,7 @@ GameObject:
   - component: {fileID: 1100897040}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4631,6 +4658,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1100897041
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4745,7 +4773,7 @@ GameObject:
   - component: {fileID: 1191047476}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4777,6 +4805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1191047477
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4891,7 +4920,7 @@ GameObject:
   - component: {fileID: 1212772497}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4923,6 +4952,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1212772498
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5037,7 +5067,7 @@ GameObject:
   - component: {fileID: 1224937634}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5069,6 +5099,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1224937635
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5288,7 +5319,7 @@ GameObject:
   - component: {fileID: 1272470459}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5320,6 +5351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1272470460
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5434,7 +5466,7 @@ GameObject:
   - component: {fileID: 1274800706}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5466,6 +5498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1274800707
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5580,7 +5613,7 @@ GameObject:
   - component: {fileID: 1278994101}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5612,6 +5645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1278994102
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5726,7 +5760,7 @@ GameObject:
   - component: {fileID: 1299337129}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5758,6 +5792,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1299337130
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5978,7 +6013,7 @@ GameObject:
   - component: {fileID: 1399283780}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6010,6 +6045,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1399283781
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6124,7 +6160,7 @@ GameObject:
   - component: {fileID: 1399371203}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6156,6 +6192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1399371204
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6270,7 +6307,7 @@ GameObject:
   - component: {fileID: 1424482946}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6302,6 +6339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1424482947
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6416,7 +6454,7 @@ GameObject:
   - component: {fileID: 1450203988}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6448,6 +6486,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1450203989
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6667,7 +6706,7 @@ GameObject:
   - component: {fileID: 1501761955}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6699,6 +6738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1501761956
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6813,7 +6853,7 @@ GameObject:
   - component: {fileID: 1538165747}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6845,6 +6885,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1538165748
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7052,8 +7093,8 @@ MonoBehaviour:
   - {fileID: 1764180820}
   - {fileID: 106789764}
   _Carpistiricilar:
-  - {fileID: 1243594399}
-  - {fileID: 40903177}
+  - {fileID: 1243594403}
+  - {fileID: 40903181}
   _KupGelisHizi: 2
   _ToplananKupSayisi: 0
 --- !u!1 &1643344883
@@ -7072,7 +7113,7 @@ GameObject:
   - component: {fileID: 1643344885}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7104,6 +7145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1643344886
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7218,7 +7260,7 @@ GameObject:
   - component: {fileID: 1703306166}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7250,6 +7292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1703306167
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7364,7 +7407,7 @@ GameObject:
   - component: {fileID: 1705272323}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7396,6 +7439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1705272324
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7508,8 +7552,8 @@ GameObject:
   - component: {fileID: 1707593426}
   - component: {fileID: 1707593425}
   m_Layer: 0
-  m_Name: Kup
-  m_TagString: Untagged
+  m_Name: ilkKup
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7643,7 +7687,7 @@ GameObject:
   - component: {fileID: 1717762946}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7675,6 +7719,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1717762947
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7789,7 +7834,7 @@ GameObject:
   - component: {fileID: 1732837197}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7821,6 +7866,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1732837198
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7935,7 +7981,7 @@ GameObject:
   - component: {fileID: 1743953037}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7967,6 +8013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1743953038
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8164,7 +8211,7 @@ GameObject:
   - component: {fileID: 1779410323}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8196,6 +8243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1779410324
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8310,7 +8358,7 @@ GameObject:
   - component: {fileID: 1825398719}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8342,6 +8390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1825398720
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8456,7 +8505,7 @@ GameObject:
   - component: {fileID: 1835372030}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8488,6 +8537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1835372031
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8602,7 +8652,7 @@ GameObject:
   - component: {fileID: 1849976202}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8634,6 +8684,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1849976203
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8748,7 +8799,7 @@ GameObject:
   - component: {fileID: 1856317214}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8780,6 +8831,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1856317215
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8894,7 +8946,7 @@ GameObject:
   - component: {fileID: 1918535723}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8926,6 +8978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1918535724
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9040,7 +9093,7 @@ GameObject:
   - component: {fileID: 1990704659}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9072,6 +9125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1990704660
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9186,7 +9240,7 @@ GameObject:
   - component: {fileID: 1994543204}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9218,6 +9272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &1994543205
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9332,7 +9387,7 @@ GameObject:
   - component: {fileID: 2048177352}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9364,6 +9419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &2048177353
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9478,7 +9534,7 @@ GameObject:
   - component: {fileID: 2050337537}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9510,6 +9566,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &2050337538
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9624,7 +9681,7 @@ GameObject:
   - component: {fileID: 2061818121}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9656,6 +9713,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &2061818122
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9770,7 +9828,7 @@ GameObject:
   - component: {fileID: 2089716217}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9802,6 +9860,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &2089716218
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9916,7 +9975,7 @@ GameObject:
   - component: {fileID: 2142522803}
   m_Layer: 0
   m_Name: Kup
-  m_TagString: Untagged
+  m_TagString: Kup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9948,6 +10007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27077859136bd4aa6881b83c0132b057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _HareketEdebilirMi: 1
 --- !u!54 &2142522804
 Rigidbody:
   m_ObjectHideFlags: 0

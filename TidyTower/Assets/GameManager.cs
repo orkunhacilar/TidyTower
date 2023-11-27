@@ -32,15 +32,16 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        YeniKupGelsin(); //oyuna basla ui yapildiginda bu kalkacak...
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.touchCount > 0 && Input.touchCount == 1 && _DokunmaAktif)
+        if ((Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began && _DokunmaAktif) // Dokunmatik giriş kontrolü
+        || Input.GetMouseButtonDown(0)) // Fare sol tuşuna basıldığında
         {
-            if(_AktifKupIndex != 0)
+            if (_AktifKupIndex != 0)
             {
                 _Kupler[_AktifKupIndex - 1].GetComponent<Kup>()._HareketEdebilirMi = false;
                 _Kupler[_AktifKupIndex - 1].GetComponent<Rigidbody>().useGravity = true;
@@ -77,7 +78,7 @@ public class GameManager : MonoBehaviour
                     [i].transform.position.y + .1f, _KupSoketleri[i].transform.position.z);
 
                 _Carpistiricilar[i].transform.position = new Vector3(_Carpistiricilar[i].transform.position.x, _Carpistiricilar
-                    [i].transform.position.y + .1f, _Carpistiricilar[i].transform.position.z);
+                    [i].transform.position.y + .1f, _Carpistiricilar[i].transform.position.z); 
             }
 
             if(_AktifKupSoketIndex == 1)
@@ -89,7 +90,6 @@ public class GameManager : MonoBehaviour
                 _AktifKupSoketIndex = 1;
             }
 
-            Debug.Log(_ToplananKupSayisi);
             _DokunmaAktif = true;
         }
     }
